@@ -1,4 +1,4 @@
-# Node.js CLI for the Code Plagiarism Checker API by Codequiry
+# Node.js CLI for the Code Plagiarism Checker API for Codequiry
 
 ## Detail
 Command Line Interface (CLI) to interact with the Plagiarism Checker API that scans for code plagiarism in a group cluster or on the web. 
